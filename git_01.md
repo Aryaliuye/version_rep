@@ -1,13 +1,3 @@
-查看与修改git用户名,邮箱名
-
-```bash
-tarena@tarena:~$ git config user.name
-Tedu
-tarena@tarena:~$ git config --global user.name 'xiaomahua'
-tarena@tarena:~$ git config user.email
-a202378583@163.com
-```
-
 #### 管理修改
 
 为什么说Git管理的是修改，而不是文件呢？我们还是做实验。第一步，对readme.txt做一个修改，比如加一行内容：
